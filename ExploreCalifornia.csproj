@@ -13,4 +13,46 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\register.htm" />
+    <Content Remove="wwwroot\support.htm" />
+    <Content Remove="wwwroot\mission.htm" />
+    <Content Remove="wwwroot\css\main.css" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-Oblique-webfont.svg" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-BoldItalic-webfont.eot" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-Bold-webfont.svg" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-webfont.woff" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-BoldItalic-webfont.woff" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-webfont.svg" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-Bold-webfont.ttf" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-BoldOblique-webfont.eot" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-Regular-webfont.ttf" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-Oblique-webfont.ttf" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-BoldOblique-webfont.ttf" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-webfont.ttf" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-BoldItalic-webfont.ttf" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-Regular-webfont.woff" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-Bold-webfont.eot" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-BoldOblique-webfont.ttf" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-Bold-webfont.svg" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-BoldOblique-webfont.eot" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-webfont.eot" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-Regular-webfont.eot" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-Oblique-webfont.eot" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-Italic-webfont.svg" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-Bold-webfont.woff" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-Oblique-webfont.woff" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-Bold-webfont.eot" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-Italic-webfont.woff" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-Bold-webfont.svg" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-webfont.ttf" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-Oblique-webfont.svg" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-Regular-webfont.svg" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-Italic-webfont.eot" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-webfont.svg" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSans-BoldOblique-webfont.svg" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-Oblique-webfont.ttf" />
+    <Content Remove="wwwroot\css\fonts\DejaVuSansCondensed-Bold-webfont.woff" />
+    <Content Remove="wwwroot\css\fonts\DroidSerif-Bold-webfont.ttf" />
+  </ItemGroup>
 </Project>
