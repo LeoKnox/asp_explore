@@ -1,0 +1,14 @@
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/bin/Debug/netcoreapp2.1/ExploreCalifornia.deps.json
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/bin/Debug/netcoreapp2.1/ExploreCalifornia.runtimeconfig.json
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/bin/Debug/netcoreapp2.1/ExploreCalifornia.runtimeconfig.dev.json
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/bin/Debug/netcoreapp2.1/ExploreCalifornia.dll
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/bin/Debug/netcoreapp2.1/ExploreCalifornia.pdb
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/obj/Debug/netcoreapp2.1/ExploreCalifornia.csprojAssemblyReference.cache
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/obj/Debug/netcoreapp2.1/ExploreCalifornia.csproj.CoreCompileInputs.cache
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/obj/Debug/netcoreapp2.1/ExploreCalifornia.RazorAssemblyInfo.cache
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/obj/Debug/netcoreapp2.1/ExploreCalifornia.RazorAssemblyInfo.cs
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/obj/Debug/netcoreapp2.1/ExploreCalifornia.AssemblyInfoInputs.cache
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/obj/Debug/netcoreapp2.1/ExploreCalifornia.AssemblyInfo.cs
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/obj/Debug/netcoreapp2.1/ExploreCalifornia.RazorTargetAssemblyInfo.cache
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/obj/Debug/netcoreapp2.1/ExploreCalifornia.dll
+/Users/Aelien/Documents/work/dotnet01/ExploreCalifornia/ExploreCalifornia/obj/Debug/netcoreapp2.1/ExploreCalifornia.pdb
